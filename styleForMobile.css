@@ -1,0 +1,29 @@
+.top-bar {
+  display: none;
+}
+#middle-picture {
+  background: url(hero-image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+}
+.middle-part-buttons-large {
+  display: none;
+}
+.middle-part-buttons-small {
+  margin: 5px;
+  display: inline;
+}
+#middle-picture-top-text {
+  color: #4ac6d6;
+  font-size: 2em;
+  font-weight: bolder;
+}
+#middle-picture-bottom-text {
+  color: white;
+  font-size: 2.5em;
+  font-weight: bolder;
+  text-align: justify;
+}
